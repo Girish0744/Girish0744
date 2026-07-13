@@ -1,0 +1,12 @@
+# regenerable intermediate from prep_photo.py
+source-prepped.png
+
+# python noise
+__pycache__/
+*.pyc
+.venv/
+scratch-*.png
+
+preview.html
+scratch_serve.py
+scratch*
