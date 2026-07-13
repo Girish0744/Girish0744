@@ -10,3 +10,5 @@ scratch-*.png
 preview.html
 scratch_serve.py
 scratch*
+scratch_artifact.html
+build_artifact.py
