@@ -1,13 +1,13 @@
 {
   "username": "Girish0744",
-  "generated_at": "2026-10-10T12:34:49Z",
+  "generated_at": "2026-10-11T12:53:00Z",
   "range": {
-    "start": "2025-10-05",
-    "end": "2026-10-10"
+    "start": "2025-10-12",
+    "end": "2026-10-11"
   },
-  "total_contributions": 178,
-  "active_days": 52,
-  "avg_per_active_day": 3.4,
+  "total_contributions": 165,
+  "active_days": 51,
+  "avg_per_active_day": 3.2,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 13
+      "total": 0
     },
     {
       "month": "2025-11",
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 13
-    },
-    {
-      "date": "2025-10-10",
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-10",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
       "count": 0
     }
   ]
